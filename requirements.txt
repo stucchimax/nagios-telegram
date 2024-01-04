@@ -1,0 +1,3 @@
+asyncclick
+emoji
+python-telegram-bot
